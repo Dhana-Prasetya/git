@@ -59,3 +59,7 @@ delete from nilai -- Delete nilai 'siswa_id' = 1 untuk 'mata_pelajaran' = 'Bahas
 where
     siswa_id = 1 
     and mata_pelajaran = 'Bahasa Inggris';
+
+-- this is second commit
+-- this is third commit
+-- this commit is on master branch
